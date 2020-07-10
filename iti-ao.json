@@ -17,7 +17,7 @@
   ],
   "background_color": "#e2e0e0",
   "theme_color": "#e2e0e0",
-  "start_url": "/?utm_source=pwa&utm_campaign=pwa",
+  "start_url": "https://iti.auraiya.online/",
   "display": "standalone",
   "orientation": "portrait",
   "prefer_related_applications": false,

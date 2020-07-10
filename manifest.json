@@ -11,19 +11,21 @@
   "lang" : "English",
     "icons": [
       {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/180x180.png",
+       "src": "https://drive.google.com/uc?export=view&id=1u0ELP4lTQ33hbrDpZPFY6cyWYGVWWe6q",
        "type": "image/png",
        "sizes": "180x180"
       },
       {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/192x192.png",
+       "src": "https://drive.google.com/uc?export=view&id=1brg0TpHRlgu-FmC7oC9QIXT4_Tq16Jp8",
        "type": "image/png",
        "sizes": "192x192"
       },
       {
-      "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/512x512.png",
+      "src": "https://drive.google.com/uc?export=view&id=1z1cWgS31mEF0JvdnPuFF3_amZrMMMmWY",
       "type": "image/png",
       "sizes": "512x512"
     }
   ]
   }
+
+

@@ -1,25 +1,84 @@
+
 {
-  "lang": "hi",
-  "name": "ITI Online Test",
-  "short_name": "ITI Online Test",
-  "description": "ITI",
-  "icons": [
-    {
-      "src": "192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "512x512.png",
+  "short_name" : "Auraiya Online",
+  "description" : "www.auraiya.online",
+  "start_url" : "https://www.auraiya.online/",
+  "name" : "Auraiya Online",
+  "scope" : "https://www.auraiya.online/",
+  "display" : "standalone",
+  "orientation" : "portrait",
+    "theme_color": "#3367D6",
+  "lang" : "English",
+    "icons": [
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/16x16.png",
+       "type": "image/png",
+       "sizes": "16x16"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/32x32.png",
+       "type": "image/png",
+       "sizes": "32x32"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/57x57.png",
+       "type": "image/png",
+       "sizes": "57x57"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/60x60.png",
+       "type": "image/png",
+       "sizes": "60x60"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/72x72.png",
+       "type": "image/png",
+       "sizes": "72x72"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/76x76.png",
+       "type": "image/png",
+       "sizes": "76x76"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/96x96.png",
+       "type": "image/png",
+       "sizes": "96x96"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/114x114.png",
+       "type": "image/png",
+       "sizes": "114x114"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/120x120.png",
+       "type": "image/png",
+       "sizes": "120x120"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/144x144.png",
+       "type": "image/png",
+       "sizes": "144x144"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/152x152.png",
+       "type": "image/png",
+       "sizes": "152x152"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/180x180.png",
+       "type": "image/png",
+       "sizes": "180x180"
+      },
+      {
+       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/192x192.png",
+       "type": "image/png",
+       "sizes": "192x192"
+      },
+      {
+      "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "background_color": "#e2e0e0",
-  "theme_color": "#e2e0e0",
-  "start_url": "https://iti.auraiya.online/p/home.html",
-  "display": "standalone",
-  "orientation": "portrait",
-  "prefer_related_applications": false,
-  "related_applications": [],
-}
+  ]
+  }

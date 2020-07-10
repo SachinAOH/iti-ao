@@ -1,0 +1,29 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "ITI Online Test",
+    "short_name": "ITI Online Test",
+    "scope": "/?utm_source=pwa&utm_campaign=pwa",
+    "display": "fullscreen",
+    "start_url": "/?utm_source=pwa&utm_campaign=pwa",
+    "background_color": "#F97D09",
+    "theme_color": "#F97D09",
+    "description": "कौशलं बलम्",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://drive.google.com/uc?export=view&amp;id=1z1cWgS31mEF0JvdnPuFF3_amZrMMMmWY",
+            "sizes": "512x512"
+        },     
+
+           {
+            "src": "https://drive.google.com/uc?export=view&amp;id=1brg0TpHRlgu-FmC7oC9QIXT4_Tq16Jp8",
+            "sizes": "192x192"
+        },
+    ],
+    "url": "https://iti.auraiya.online",
+    "screenshots": []
+}
+

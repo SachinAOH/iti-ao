@@ -2,69 +2,14 @@
 {
   "short_name" : "Auraiya Online",
   "description" : "www.auraiya.online",
-  "start_url" : "https://www.auraiya.online/",
-  "name" : "Auraiya Online",
-  "scope" : "https://www.auraiya.online/",
-  "display" : "standalone",
+  "start_url" : "https://iti.auraiya.online/",
+  "name" : "कौशलं बलम्",
+  "scope" : "https://iti.auraiya.online/",
+  "display" : "fullscreen",
   "orientation" : "portrait",
     "theme_color": "#3367D6",
   "lang" : "English",
     "icons": [
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/16x16.png",
-       "type": "image/png",
-       "sizes": "16x16"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/32x32.png",
-       "type": "image/png",
-       "sizes": "32x32"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/57x57.png",
-       "type": "image/png",
-       "sizes": "57x57"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/60x60.png",
-       "type": "image/png",
-       "sizes": "60x60"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/72x72.png",
-       "type": "image/png",
-       "sizes": "72x72"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/76x76.png",
-       "type": "image/png",
-       "sizes": "76x76"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/96x96.png",
-       "type": "image/png",
-       "sizes": "96x96"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/114x114.png",
-       "type": "image/png",
-       "sizes": "114x114"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/120x120.png",
-       "type": "image/png",
-       "sizes": "120x120"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/144x144.png",
-       "type": "image/png",
-       "sizes": "144x144"
-      },
-      {
-       "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/152x152.png",
-       "type": "image/png",
-       "sizes": "152x152"
-      },
       {
        "src": "https://storage.cloud.google.com/host.auraiya.online/pwa/favicon/180x180.png",
        "type": "image/png",

@@ -1,11 +1,11 @@
 
 {
-  "short_name" : "Auraiya Online",
-  "description" : "www.auraiya.online",
+  "short_name" : "ITI Online Test",
+  "description" : "iti.auraiya.online",
   "start_url" : "https://iti.auraiya.online/",
   "name" : "कौशलं बलम्",
   "scope" : "https://iti.auraiya.online/",
-  "display" : "fullscreen",
+  "display" : "standalone",
   "orientation" : "portrait",
     "theme_color": "#3367D6",
   "lang" : "English",

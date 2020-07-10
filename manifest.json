@@ -7,7 +7,7 @@
   "scope" : "https://iti.auraiya.online/",
   "display" : "standalone",
   "orientation" : "portrait",
-    "theme_color": "#3367D6",
+    "theme_color": "#f97d09",
   "lang" : "English",
     "icons": [
       {
